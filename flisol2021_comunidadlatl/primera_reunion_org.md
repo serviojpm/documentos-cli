@@ -1,9 +1,7 @@
-%title: Primera reunión de planificación FLISOL 2021
-%author: Comunidad Latina TL
-%date: 2021/14/02
 # Comunidad Latina de Tecnologías Libres
 Planificación/Ideas FLISOL ONLINE 2021
 ---
+Fecha: 2021/14/02
 
 - Un evento realizado con software y plataformas lo más libres posibles
 - No streaming por youtube (no es algo decidido solo es una idea)
@@ -18,9 +16,11 @@ Planificación/Ideas FLISOL ONLINE 2021
 ---
 
 Idea de Riky: subir vídeos grabados.
-	- Javier propone un PRE-FLISOL (no entendí esta parte jj)
-		Pre FLISOL lo pienso como la "grabación" de las ponencias y dejar el día o días del FLISOL para la presentación y debate o respuestas a preguntas en vivo del tema dado
-		pero con el Pre FLISOL ganamos tener las charlas "mas limpias" y se deja el día del lanzamiento para responder
+    - Javier propone un PRE-FLISOL (no entendí esta parte jj)
+       Pre FLISOL lo pienso como la "grabación" de las ponencias y dejar el día o días del FLISOL para la presentación y debate o respuestas a preguntas en vivo del tema dado
+       pero con el Pre FLISOL ganamos tener las charlas "mas limpias" y se deja el día del lanzamiento para responder
+
+---
 		
 Metas a una semana o más? (Siguiente reunión próximo jueves 18 8pm Ec)
 - Conseguir colaboradores (por lo menos unas 3 personas)
