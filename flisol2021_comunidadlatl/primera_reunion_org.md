@@ -24,3 +24,11 @@ Idea de Riky: subir vídeos grabados.
 		
 Metas a una semana o más? (Siguiente reunión próximo jueves 18 8pm Ec)
 - Conseguir colaboradores (por lo menos unas 3 personas)
+
+---
+
+Herramienta para grabación
+---
+
+- Vokoscreen: No consume muchos recursos, por lo que es el mas recomendado.
+	- No olvidar activar el *Monitor de Audio Inerno* así se grabará el audio que sale desde el navegador.
